@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/vcgtz/url-shortener.git"
   },
-  "author": "",
+  "author": "Vicene Gutiérrez <gtz.rvera@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/body-parser": "^1.19.2",
